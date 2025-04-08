@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @batow133
-- 👀 I’m interested in roblox game develop and app coding.
-- 🌱 I’m currently learning html and python.
+- 👀 I'm python, javascript and lua developer.
+- 🌱 I’m currently learning python.
 - 😄 Pronouns: he,him
   
 <!---
